@@ -1,1 +1,20 @@
 
+div.youtube{
+  outline: solid 5px red;
+  background-color: lightcoral;
+}
+div.twitter{
+  outline: solid 5px blue;
+  background-color: lightblue;
+}
+div.spotify{
+  outline: solid 5px black;
+  background-color: lightgreen;
+}
+div.maps{
+  outline: solid 5px gray;
+  background-color: lightgray;
+}
+div.freeweb{
+  outline: solid 5px black;
+}
